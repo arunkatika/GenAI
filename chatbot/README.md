@@ -1,6 +1,7 @@
 # 🤖 GenAI Chatbot Demos
 
 This repository showcases two chatbot applications built with **LangChain** and **Streamlit** — designed to demonstrate both cloud-based and fully local conversational AI.
+![image](https://github.com/user-attachments/assets/ffd681b4-c655-4b4d-b63b-134bbdb9ce9e)
 
 ### 🔹 What It Does
 
