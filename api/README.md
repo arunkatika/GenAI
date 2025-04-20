@@ -5,7 +5,7 @@ This project demonstrates how to build an AI-powered API service using **LangCha
 ---
 ## 📸 Demo Screenshot
 
-![image](https://github.com/user-attachments/assets/3a9ed45c-ad68-49fa-880a-58af8ba4e1ca)
+![image](https://github.com/user-attachments/assets/eaa8382d-f3b1-4d1e-b8ea-73955fad5e36)
 
 ---
 
