@@ -2,8 +2,10 @@
 
 This project demonstrates how to build an AI-powered API service using **LangChain**, **FastAPI**, and **Streamlit**, with support for both cloud (OpenAI) and local (Ollama LLaMA2) LLMs.
 
-![image](https://github.com/user-attachments/assets/3a9ed45c-ad68-49fa-880a-58af8ba4e1ca)
+---
+## 📸 Demo Screenshot
 
+![image](https://github.com/user-attachments/assets/3a9ed45c-ad68-49fa-880a-58af8ba4e1ca)
 
 ---
 
@@ -88,6 +90,7 @@ streamlit run client.py
 
 ---
 
+
 ## 🧠 Credits
 
 Created using:
@@ -97,4 +100,3 @@ Created using:
 - [Streamlit](https://streamlit.io/)
 
 ---
-
