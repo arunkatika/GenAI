@@ -11,8 +11,8 @@ This repo contains two LangChain-based chatbot apps built with Streamlit:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/genai-chatbots.git
-   cd genai-chatbots
+   git clone https://github.com/arunkatika/GenAI.git
+   cd chatbot
    ```
 
 2. Create a virtual environment:
